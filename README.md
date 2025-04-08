@@ -1,6 +1,5 @@
 # RXDSEC RAT: Advanced Android Remote Access Tool
 
-![RXDSEC RAT Banner](static/img/rxdsec_banner.png)
 
 **Created by [@rxdsec](https://t.me/rxdsec)**
 
