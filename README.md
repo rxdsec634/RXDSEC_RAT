@@ -181,7 +181,7 @@ The memory signature randomization technique helps evade detection by security t
 ### C2 Server Setup
 1. Clone the repository
    ```
-   git clone https://github.com/rxdsec634/rxdsec-rat.git
+   git clone https://github.com/rxdsec634/RXDSEC_RAT.git
    cd rxdsec-rat
    ```
 
